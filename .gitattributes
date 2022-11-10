@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+git push Dockerfile-Python3-officiel.iml helloworld.py requirements.txt
